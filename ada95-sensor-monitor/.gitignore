@@ -1,0 +1,7 @@
+# GNAT build artifacts
+*.o
+*.ali
+b~*
+*.exe
+sensor_monitor
+test_sensors
